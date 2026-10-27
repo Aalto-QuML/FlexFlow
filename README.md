@@ -5,7 +5,7 @@
 Repository for the paper **"Flexible Flows for Biological Sequence Design"** (NeurIPS 2026).
 
 <p align="center">
-  <img src="https://github.com/Aalto-QuML/FlexFlow/blob/main/Group_434.pdf" />
+  <img src="https://github.com/Aalto-QuML/FlexFlow/blob/main/Group_434.png" />
 </p>
 
 ## Citation
