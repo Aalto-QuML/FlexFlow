@@ -1,6 +1,6 @@
 # FlexFlow
 
-[Yogesh Verma](https://yoverma.github.io/yoerma.github.io/) | [Dani Korpela](https://scholar.google.com/citations?hl=en&user=oW-F1e4AAAAJ) | [Harri Lähdesmäki](https://www.aalto.fi/fi/ihmiset/harri-lahdesmaki) | [Vikas Garg](https://www.aalto.fi/en/people/vikas-kumar-garg)
+[Yogesh Verma](https://yogeshverma1998.github.io/) | [Dani Korpela](https://scholar.google.com/citations?hl=en&user=oW-F1e4AAAAJ) | [Harri Lähdesmäki](https://www.aalto.fi/fi/ihmiset/harri-lahdesmaki) | [Vikas Garg](https://www.aalto.fi/en/people/vikas-kumar-garg)
 
 Repository for the paper **"Flexible Flows for Biological Sequence Design"** (NeurIPS 2026).
 
